@@ -1,6 +1,6 @@
 # Tutorial-Desarrollo-web-con-Spring-4.3
 ### Tutorial comprado en Udemy - Desarrollo web con Spring 4.3 (2017) de Cero a Ninja.
-### En este turorial se aprenden las bases de la arquitectura de Spring MVC, consultar la documentación oficial y a utilizar algunos de sus modulos.
+### En este turorial se aprenden las bases de la arquitectura de Spring MVC, consultar la documentación oficial y a utilizar algunos de sus modulos entre otros.
 
   ******************************************************************************************************************************
 - Crear proyecto Maven.
