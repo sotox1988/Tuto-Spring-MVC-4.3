@@ -9,7 +9,7 @@
 ```
 - Cliente (Bootstrap 4.0 + thymeleaf)
 
-- Servidor(Spring MVC : Controellor - Service - Repository) 
+- Servidor(Spring MVC : Controller - Service - Repository) 
 
     a) Controller: 
               - Comunicación con el cliente mediante peticiones http(get y/o post).
