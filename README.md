@@ -40,5 +40,6 @@ https://www.udemy.com/desarrollo-web-con-spring-framework-4-de-cero-a-ninja/lear
   - Login y Logout.
   - Formularios con CRUD agregar, Listar, Modificar, Eliminar.
   - Mostrar mensaje en formato Json para comprobar funcionalidad de Spring Rest.
+  - Logs de errores, navegación y tiempo de las peticiones.
               
 ### BY MATIAS SOTOMAYOR R.
