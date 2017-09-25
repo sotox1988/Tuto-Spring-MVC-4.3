@@ -5,7 +5,7 @@
   ******************************************************************************************************************************
 - Crear proyecto Maven.
 
-- Arquitectura MVC:
+- Arquitectura Spring MVC:
 ```
 - Cliente (Bootstrap 4.0 + thymeleaf)
 
