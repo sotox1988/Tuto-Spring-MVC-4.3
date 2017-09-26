@@ -2,13 +2,23 @@ package com.udemy.backendninja;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.scheduling.annotation.EnableScheduling;
+
+import com.mkyong.SpringBootWebApplication;
 
 @SpringBootApplication
 @EnableScheduling
-public class BackendninjaApplication {
+public class BackendninjaApplication extends SpringBootServletInitializer {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BackendninjaApplication.class, args);
-	}
+	@Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+        return application.sources(BackendninjaApplication.class);
+    }
+
+    public static void main(String[] args) throws Exception {
+        SpringApplication.run(BackendninjaApplication.class, args);
+    }
+
 }
