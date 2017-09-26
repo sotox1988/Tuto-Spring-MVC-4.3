@@ -5,7 +5,7 @@ https://www.udemy.com/desarrollo-web-con-spring-framework-4-de-cero-a-ninja/lear
 ### En este turorial se aprenden las bases de la arquitectura Spring MVC, consultar la documentación oficial y a utilizar algunos de sus modulos entre otros.
 
   ******************************************************************************************************************************
-- Crear proyecto Maven.
+- Se crea proyecto Maven.
 
 - Arquitectura Spring MVC:
 ```
