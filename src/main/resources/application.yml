@@ -1,7 +1,7 @@
 #Puerto del servidor
 server:
   port: 8081
-  contextPath: /backendninja
+  contextPath: /
 #Directorio del banner de Springboot tras arrancar el servidor
 banner:
   location: classpath:/bannerspring/banner.txt
